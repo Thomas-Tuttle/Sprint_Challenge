@@ -326,6 +326,36 @@ h4 {
     width: 100px;  
 }
 
+.learn-div {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    border: 1px solid black;
+    width: 200px;
+    height: 600px;
+
+}
+
+.learn-top {
+    display: flex;
+    padding-top: 100px;
+    margin-bottom: 50px;
+}
+
+.learn-middle {
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 50px;
+
+}
+
+.learn-bottom {
+    display: flex;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
 /* Thomas-Tuttle*/
 
 h1, h2, h3, h4, h5 {
