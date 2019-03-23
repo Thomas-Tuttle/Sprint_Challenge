@@ -172,7 +172,7 @@ header {
 /* dashed lines */
 
 hr {
-    border-bottom: 1px dashed black;
+    border-bottom: 1px solid black;
 }
 
 /* main content */
