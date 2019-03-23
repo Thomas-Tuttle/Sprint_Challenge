@@ -201,14 +201,14 @@ hr {
 }
 
 .div-b1 {
-    border-bottom: 1px dashed black;
+    border-bottom: 1px solid black;
     margin-right: 20px;
     margin-left: 10px;
     
 }
 
 .div-b2 {
-    border-bottom: 1px dashed black;
+    border-bottom: 1px solid black;
     margin-right: 20px;
     margin-left: 20px;
 }
